@@ -1,4 +1,4 @@
-# Instructions for compilation
-all: main.c holberton.c
-	gcc main.c holberton.c -o holberton
+# Makefile 0
 
+all: main.c holberton.c
+	gcc-4.8 main.c holberton.c -o holberton
